@@ -27,6 +27,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/vincentgsell/
+[twitter]: https://twitter.com/VincentGsell/
 
 [embarcadero]: https://www.embarcadero.com/
 [python]: https://www.python.org/
