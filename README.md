@@ -22,7 +22,7 @@
 <br/>
 
 [<img align="right" alt="Victor Tadashi | LinkedIn" width="24px" src="https://www.pngrepo.com/png/75820/180/linkedin.png" />][linkedin]
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/VincentGsell)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/VincentGsell.svg?style=social&label=Follow%20%40VincentGsell)](https://twitter.com/VincentGsell)
 
 <br/>
 
