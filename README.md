@@ -21,15 +21,13 @@
 
 <br/>
 
-[<img align="right" alt="Victor Tadashi | LinkedIn" width="24px" src="https://www.pngrepo.com/png/75820/180/linkedin.png" />][linkedin]
+[<img alt="Vincent Gsell | LinkedIn" width="24px" src="https://www.pngrepo.com/png/75820/180/linkedin.png" />][linkedin]
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/VincentGsell.svg?style=social&label=Follow%20%40VincentGsell)](https://twitter.com/VincentGsell)
 
 <br/>
 
 
 [linkedin]: https://www.linkedin.com/in/vincentgsell/
-[twitter]: https://twitter.com/VincentGsell/
-
 [embarcadero]: https://www.embarcadero.com/
 [python]: https://www.python.org/
 [freepascal]: https://www.freepascal.org
