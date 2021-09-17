@@ -2,7 +2,7 @@
 
 > 🧑‍💼 - Current employeed by [Grid System](https://grids.system/) as TechLead   
 > 📖 - Interested in graphics, real time app, as well as high perf-oriented backend   
-> 💻 - Pascal (delphi/FPC/...), python, cpp (c++ Builder)   
+> 💻 - Pascal (delphi/FPC/...), python, cpp, c and v
 > 🌱 - Raspberry programming, IoT stuffs  
 
 <br/>
