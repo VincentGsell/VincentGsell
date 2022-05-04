@@ -4,7 +4,7 @@
 > 
 > 📖 - Interested in graphics, real time app, as well as high perf-oriented backend   
 > 
-> 💻 - Pascal (delphi/FPC/...), python, cpp, c and v
+> 💻 - Pascal (delphi/FPC/...), c, python, shaders
 > 
 > 🌱 - Raspberry programming, IoT stuffs  
 
