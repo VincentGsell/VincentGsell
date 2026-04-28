@@ -1,6 +1,6 @@
 <a href="#"><img alt="Hello" height="36" src="https://www.pngrepo.com/png/42915/180/hello-speech-bubble-handmade-chatting-symbol.png"/></a>
 
-> 🧑‍💼 - Current employeed by [Grid System](https://grids.systems/) as TechLead   
+> 🧑‍💼 - Current employeed by [Grid System](http://grids.systems/) as TechLead   
 > 
 > 📖 - Interested in graphics, real time app, as well as high perf-oriented backend   
 > 
