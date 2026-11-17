@@ -49,12 +49,6 @@
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
 </p>
 
-## Currently: [RetroLab](https://github.com/VincentGsell/RetroLab)
-
-An arcade emulator written in modern Object Pascal. Seven games run on it today, from Capcom's 1942 to Sega's OutRun and Power Drift, played with a gamepad.
-
-<a href="https://github.com/VincentGsell/RetroLab"><img src="https://raw.githubusercontent.com/VincentGsell/RetroLab/main/docs/img/menu-en.png" width="560" alt="The RetroLab cabinet menu"></a>
-
 ## Projects
 
 **Object Pascal**
